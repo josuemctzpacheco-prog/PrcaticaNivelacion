@@ -1,0 +1,17 @@
+---
+title: "Relatos del IMSS"
+author: "Josue Moises Cutz Pacheco"
+date: "2025-09-11"
+output:
+ rmdformats::material:
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Relatos del IMSS 
+Esto empieza como cualquier dia de sobreexplotacionn laboral como cualquier otro dia, un pobrere pasante de enfermeria andaba sufriendo en el area urgencias, de la cual al pobre apenas con una carrera trunca de la cual la jefa del servicio le encargo 12 pacienetes a su cargo, del cual fue el peor dia de syun  vida, de esos 12 habian 3 entubados y los demas con enfermedades cardiacas, IRC, y de choques septico de los cual el ppobre pasante no sabia ni de donde empezar, pero unos enfermeros se sintieron conmovidos de lo cual, le repartieron ptes, despues de ´poder lloevar la mitad del turno se le caen en paro dos ptes al mismo tiempo, de lo cual solo pudo sacara uno del paro, de eso se le murio el pte de choque sptico de lo cual terminando el turno tuvo que amortajatr a tres de sus ptes pq no querian ayudarlo, terminando su turno desde que ya le recibieron, la jefa le dijo que si podia quedarse a cubrir a un compañero y lo mandaron a choque sde lo cual fue euna pesadilla, dado de que ese dia exploto una pipa cerca de su hospital y le llegaron decenas de ptes apara poder atender y de ahi no pudo y colapso y se fue rendido del hospital. 
+
+
+![logo del imss](https://i.pinimg.com/736x/e2/47/84/e247845b29e4dffd27cd86a88920c2cf.jpg)
+
+
